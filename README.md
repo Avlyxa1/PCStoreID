@@ -1,10 +1,15 @@
 # PcStoreID
 
-## Informasi Mahasiswa
+## Anggota Kelompok
 
-- Nama : (isi nama Anda)
-- NIM : (isi NIM Anda)
-- Kelas : (isi kelas Anda)
+- Nama : Rafly Enggar Tiarso
+- NIM : 2410501067
+
+- Nama : Muhammad Kevin
+- NIM : 2410501040
+
+- Nama : Bagas Bani Aryasatya
+- NIM : 2410501055
 
 ## Deskripsi Aplikasi
 
