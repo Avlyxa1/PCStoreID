@@ -48,7 +48,7 @@ Aplikasi ini dibangun dengan React di sisi frontend, Express di sisi backend, se
 ### 1. Clone repository
 
 ```bash
-git clone <url-repository-anda>
+git clone https://github.com/Avlyxa1/PCStoreID.git
 cd PcStoreID
 ```
 
