@@ -1,0 +1,1 @@
+const mysql = require("mysql2");const conn = mysql.createConnection({  host: "localhost",  user: "root",  password: "", // Sesuaikan jika root mysql kamu pakai password  database: "db_pcstore"});conn.connect(err => {  if (err) throw err;  console.log("MySQL Connected (Database: db_pcstore)");});module.exports = conn;
