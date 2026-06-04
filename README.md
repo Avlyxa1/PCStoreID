@@ -90,4 +90,5 @@ Aplikasi terbuka di `http://localhost:3000`. Pastikan backend sudah berjalan aga
 | Frontend   | React 19, Axios, CSS               |
 | Backend    | Express 5, Node.js                 |
 | Database   | MySQL (mysql2), MongoDB (Mongoose) |
+
 Dibuat untuk menyelesaikan tugas mata kuliah web lanjut
